@@ -22,7 +22,7 @@ Random Bakers is an e-commerce web application where users can browse and purcha
 
 **Database:** MySQL
 
-🎬 Demo Video
+🎬 **Demo Video**
 
 [![Watch the Demo](./assets/Video_Thumbnail.png)](https://youtu.be/AGGMhZfLf18)
 
